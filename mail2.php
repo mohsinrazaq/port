@@ -1,6 +1,6 @@
 <?php
 if((isset($_POST['name']))&&(isset($_POST['email'])&&$_POST['email']!="")){ 
-  $to = 'mohsinrazzaq35@gmail.com';
+  $to = 'mohsinrazzaq25@gmail.com';
   $name = $_POST['name'];
   $subject = $_POST['subject'];
   $email = $_POST['email'];
